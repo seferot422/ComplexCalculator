@@ -1,0 +1,14 @@
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.exe
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.deps.json
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.runtimeconfig.json
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.dll
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0\ComplexCalculator.pdb
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.AssemblyInfo.cs
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.dll
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0\refint\ComplexCalculator.dll
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.pdb
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0\ComplexCalculator.genruntimeconfig.cache
+C:\Users\Admin\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0\ref\ComplexCalculator.dll
